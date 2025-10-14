@@ -121,9 +121,9 @@ export function BlessingRaffle() {
         <CardHeader className="text-center">
           <div className="flex justify-center items-center gap-3">
             <Church className="h-8 w-8 text-primary" />
-            <CardTitle className="font-headline text-3xl md:text-4xl">Blessing Raffle</CardTitle>
+            <CardTitle className="font-headline text-3xl md:text-4xl">Rifas Grupo Primera Comunion</CardTitle>
           </div>
-          <CardDescription>Sorteos comunitarios para la iglesia</CardDescription>
+          <CardDescription>Rifa para fondos del Grupo</CardDescription>
         </CardHeader>
 
         {status === "setup" && (

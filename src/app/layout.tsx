@@ -3,8 +3,8 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
-  title: 'Blessing Raffle',
-  description: 'Sorteos comunitarios para la iglesia.',
+  title: 'Rifas Grupo Primera Comunion',
+  description: 'Rifa para fondos del Grupo.',
 };
 
 export default function RootLayout({
